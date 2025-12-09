@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello Creative People 👋
 
-<!--
-**reetipixel/ReetiPixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to ReetiPixel!
 
-Here are some ideas to get you started:
+Check out our website: **[www.reetipixel.com](https://www.reetipixel.com)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We create high-quality digital work for individuals, brands, and businesses.  
+Our services include:
+
+- Video editing  
+- Graphic design  
+- Content writing  
+- Social media content  
+- Branding support  
+- Creative consultation  
+
+For more details, portfolio samples, and contact options, visit our website.  
+Let’s collaborate and bring your ideas to life!
